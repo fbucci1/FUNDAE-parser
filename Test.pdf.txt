@@ -1,48 +1,45 @@
-<pdf>
-	<field name="ID_NUM_ALUMNOS_ADECUADO" value="1. Completamente en desacuerdo"/>
-	<field name="ID_CONTENIDOS_SEGUN_NECESIDADES" value="3. De acuerdo"/>
-	<field name="ID_FORMADOR_CONOCE_TEMA" value="2. En desacuerdo"/>
-	<field name="ID_TUTOR_CONOCE_TEMA" value=" "/>
-	<field name="ID_MEDIOS_COMPRENSIBLES" value=" "/>
-	<field name="ID_CONTENIDOS_SEGUN_TEORIA_PRACTICA" value="4. Completamente de acuerdo"/>
-	<field name="ID_TUTOR_FACILITADOR" value="1. Completamente en desacuerdo"/>
-	<field name="ID_INSTALACIONES_ADECUADAS" value=" "/>
-	<field name="ID_DURACION_SUFICIENTE" value=" "/>
-	<field name="ID_MEDIOS_TECNICOS_ADECUADOS" value=" "/>
-	<field name="ID_BUENA_ORGANIZACION" value="2. En desacuerdo"/>
-	<field name="ID_HORARIO_FAVORABLE" value="4. Completamente de acuerdo"/>
-	<field name="ID_MEDIOS_ACTUALIZADOS" value=" "/>
-	<field name="ID_FORMADOR_FACILITADOR" value="3. De acuerdo"/>
-	<field name="ID_TELEFORMACION_MEDIOS" value=" "/>
-	<field name="ID_PRUEBAS_EVALUACION" value=" "/>
-	<field name="ID_TELEFORMACION_GUIA" value=" "/>
-	<field name="ID_ACREDITACION" value=" "/>
-	<field name="Habilidades_trabajar_en_formado" value=" "/>
-	<field name="ID_GRADO_SATISFACCION" value="3. De acuerdo"/>
-	<field name="ID_CONOCIMIENTOS_PUESTO_TRABAJO" value=" "/>
-	<field name="F_CUMPLIMENTACION" value="21/11/2023"/>
-	<field name="ID_DESARROLLO_PERSONAL" value=" "/>
-	<field name="ID_INCORPORACION_MERCADO" value=" "/>
-	<field name="ID_PROGRESAR_CARRERA" value=" "/>
-	<field name="D_OBSERVACION" value="mu feliz"/>
-	<field name="D_NUM_EXPEDIENTE" value="Bxxxx"/>
-	<field name="D_EXPEDIENTE_DM" value="BONIFICADA"/>
-	<field name="D_CIF" value="Axxxx"/>
-	<field name="D_COD_AAFF" value="2xxxx"/>
-	<field name="D_COD_GRUPO" value="01"/>
-	<field name="D_ACCION_FORMATIVA" value="Cxxxx"/>
-	<field name="ID_MODALIDAD" value="Presencial"/>
-	<field name="N_EDAD" value="55"/>
-	<field name="ID_SEXO" value="2. Varon"/>
-	<field name="ID_TITULACION" value="5. Titulo de Tecnico Superior/ FP grado superior"/>
-	<field name="D_OTRA_TITULACION" value="1. Carnet profesional / Profesiones reguladas"/>
-	<field name="Nivel de idiomas" value="2.1. Nivel de idioma A1 del MCER"/>
-	<field name="EspecificaotraTitulacion" value="xxx"/>
-	<field name="D_LUGAR_DE_TRABAJO" value="Valencia/Valencia"/>
-	<field name="ID_CATEGORIA_PROFESIONAL" value="Trabajador/a cualificado/a"/>
-	<field name="D_OTRA_CAT_PROF" value="ssss"/>
-	<field name="ID_HORARIO_CURSO" value=" "/>
-	<field name="ID_JORNADA" value="Entre el 25% al 50%"/>
-	<field name="ID_TAMANIO_PYME" value="De 50 a 99 empleos"/>
-</pdf>
-
+D_ACCION_FORMATIVA=Cxxxx
+D_CIF=Axxxx
+D_COD_AAFF=2xxxx
+D_COD_GRUPO=01
+D_EXPEDIENTE_DM=BONIFICADA
+D_LUGAR_DE_TRABAJO=Valencia/Valencia
+D_NUM_EXPEDIENTE=Bxxxx
+D_OBSERVACION=mu feliz
+D_OTRA_CAT_PROF=ssss
+D_OTRA_TITULACION=1. Carnet profesional / Profesiones reguladas
+EspecificaotraTitulacion=xxx
+F_CUMPLIMENTACION=21/11/2023
+Habilidades_trabajar_en_formado=
+ID_ACREDITACION=
+ID_BUENA_ORGANIZACION=2. En desacuerdo
+ID_CATEGORIA_PROFESIONAL=Trabajador/a cualificado/a
+ID_CONOCIMIENTOS_PUESTO_TRABAJO=
+ID_CONTENIDOS_SEGUN_NECESIDADES=3. De acuerdo
+ID_CONTENIDOS_SEGUN_TEORIA_PRACTICA=4. Completamente de acuerdo
+ID_DESARROLLO_PERSONAL=
+ID_DURACION_SUFICIENTE=
+ID_FORMADOR_CONOCE_TEMA=2. En desacuerdo
+ID_FORMADOR_FACILITADOR=3. De acuerdo
+ID_GRADO_SATISFACCION=3. De acuerdo
+ID_HORARIO_CURSO=
+ID_HORARIO_FAVORABLE=4. Completamente de acuerdo
+ID_INCORPORACION_MERCADO=
+ID_INSTALACIONES_ADECUADAS=
+ID_JORNADA=Entre el 25% al 50%
+ID_MEDIOS_ACTUALIZADOS=
+ID_MEDIOS_COMPRENSIBLES=
+ID_MEDIOS_TECNICOS_ADECUADOS=
+ID_MODALIDAD=Presencial
+ID_NUM_ALUMNOS_ADECUADO=1. Completamente en desacuerdo
+ID_PROGRESAR_CARRERA=
+ID_PRUEBAS_EVALUACION=
+ID_SEXO=2. Varon
+ID_TAMANIO_PYME=De 50 a 99 empleos
+ID_TELEFORMACION_GUIA=
+ID_TELEFORMACION_MEDIOS=
+ID_TITULACION=5. Titulo de Tecnico Superior/ FP grado superior
+ID_TUTOR_CONOCE_TEMA=
+ID_TUTOR_FACILITADOR=1. Completamente en desacuerdo
+N_EDAD=55
+Nivel de idiomas=2.1. Nivel de idioma A1 del MCER
